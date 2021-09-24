@@ -1,0 +1,38 @@
+body{
+    background-color: rgb(141, 141, 137);
+}
+
+
+.backG{
+    position: absolute;
+    top: 40%;
+    right: 45%;
+}
+
+
+.textB{
+    text-align: center;
+    background-color: black;
+    color: white;
+}
+
+.BTnColor{
+   background-color: rgb(141, 141, 137);
+   color: black;
+   font-size: large;
+   border: 2px solid black;
+   padding: 10px;
+   border-radius: 50px;
+}
+
+.BTnColor:hover{
+    background-color: black;
+    color: white;
+    cursor: pointer;
+}
+.mainBTnColor{
+   position: absolute;
+   top: 70%;
+   right: 50%
+}
+
